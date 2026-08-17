@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BillManager</string>
+    <string name="dashboard_title">Bill Manager</string>
+    <string name="daily_expenses">Daily Expenses</string>
+    <string name="total_spending">Total Spending</string>
+    <string name="from_date">From</string>
+    <string name="to_date">To</string>
+    <string name="scan_bill">Scan Bill</string>
+    <string name="add_manual">Add Manual</string>
+    <string name="capture">Capture</string>
+    <string name="close_camera">Close Camera</string>
+    <string name="bill_captured">Bill captured!</string>
+    <string name="edit_expense">Edit Expense</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date_format">Date (YYYY-MM-DD)</string>
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirmation">Are you sure you want to delete \'%1$s\'?</string>
+    <string name="delete_expense_title">Delete Expense</string>
+    <string name="unknown">Unknown</string>
+    <string name="others">Others</string>
+    <string name="analyzing">Analyzing...</string>
+
+    <string name="expense_added_manually">Expense added manually</string>
+    <string name="expense_updated">Expense updated</string>
+    <string name="expense_deleted">Expense deleted</string>
+    <string name="bill_analyzed_added">Bill analyzed and added</string>
+    <string name="error_ai_no_content">No content received from AI</string>
+</resources>

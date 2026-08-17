@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921886371012",
+    "project_id": "com-miva-billmanager-9b132",
+    "storage_bucket": "com-miva-billmanager-9b132.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921886371012:android:3bea3d18daffec78706d91",
+        "android_client_info": {
+          "package_name": "com.miva.billmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbJIntOVBMGRGg6LupD31aDLu-RkvYk5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
